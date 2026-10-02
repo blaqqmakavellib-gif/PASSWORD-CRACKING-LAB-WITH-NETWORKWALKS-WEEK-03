@@ -79,12 +79,16 @@ I also spent some time playing with the NetworkWalks Password Hash Calculator to
 
 This exercise really helped cement the idea that hash algorithms spit out a fixed-length string no matter what you type in, which is why secure systems rely heavily on proper hashing and salting techniques to protect user accounts.
 
+![](Networkwalks-tool.png)
+
 
 ## 4.5 Password Cracker
 
 To round things out, I checked out the NetworkWalks Password Cracker tool just to see another way security utilities handle credential and hash testing.
 
 Comparing its behavior to John the Ripper gave me a broader look at how different platforms approach password strength evaluation.
+
+![](second.hashed.PNG)
 
 ---
 
